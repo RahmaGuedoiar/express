@@ -25,3 +25,51 @@
     background-color: #04AA6D;
     color: white;
   }
+  
+.contact{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.SO{
+  background-color: burlywood;
+  text-align: center;
+  background-color:#fff;
+  border: 3px solid #d5d8dc;
+  border-radius: 3px; 
+  font-size: 14px; 
+  margin-top: 10px;
+  padding-top: 80px;
+   width: 1080px; 
+  /* height: 300px; */ 
+ 
+}
+.tout{
+  background-color: rgba(0, 0, 0, 0.864);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.service{
+  display: flex;
+  margin-top: 22px;
+  margin-left: 15px;
+  
+
+}
+.gm{
+  width: 400px;
+  height: 400px;
+}
+.ss{
+  padding-left:10px;
+  border: 3px solid #d5d8dc;
+  border-radius: 20px; 
+}
+.service h1{
+  color: palevioletred;
+}
